@@ -8,3 +8,7 @@ configure
 install-sh
 missing
 scrnsaverproto.pc
+*~
+scrnsaverproto-*.tar.*
+ChangeLog
+tags
